@@ -2,7 +2,7 @@
 
 # Screenshot
 
-![](https://github.com/IceG2020/2020/blob/master/temp.PNG)
+![](https://raw.githubusercontent.com/IceG2020/Linksys-WRT-temperature-panel-luci/master/temp.PNG)
 
 "Linksys WRT1900AC"
 "Linksys WRT1900ACv2"
