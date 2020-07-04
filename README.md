@@ -1,6 +1,8 @@
 # Linksys-WRT-temperature-panel-luci
 
-# Screenshot
+![GitHub All Releases](https://img.shields.io/github/downloads/IceG2020/Linksys-WRT-temperature-panel-luci/total)
+
+# Screenshots
 
 ![](https://raw.githubusercontent.com/IceG2020/Linksys-WRT-temperature-panel-luci/master/temp.PNG)
 
