@@ -4,9 +4,9 @@
 ![GitHub stars](https://img.shields.io/github/stars/IceG2020/Linksys-WRT-temperature-panel-luci?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/IceG2020/Linksys-WRT-temperature-panel-luci?style=flat-square)
 
-## Screenshots
+## Preview
 
-![](https://raw.githubusercontent.com/IceG2020/Linksys-WRT-temperature-panel-luci/master/temp.PNG)
+![](https://raw.githubusercontent.com/4IceG/Personal_data/master/tempetarure.gif)
 
 "Linksys WRT1900AC"
 "Linksys WRT1900ACv2"
