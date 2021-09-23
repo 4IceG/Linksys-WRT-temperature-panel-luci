@@ -4,7 +4,7 @@
 'require rpc';
 
 return baseclass.extend({
-	title: _('Temperatura'),
+	title: _('Temperature'),
 
 	render: function(data) {
 
