@@ -1,0 +1,6 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: htdocs/luci-static/resources/view/status/include/10_temperature.js:7
+msgid "Temperature"
+msgstr "Temperatura"
